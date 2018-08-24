@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
 
-let defaultTextColor = 'black';
 let defaultStyle = {
-    color: defaultTextColor
+    color: 'black'
 };
 
 class Aggregate extends Component {
